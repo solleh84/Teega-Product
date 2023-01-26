@@ -135,7 +135,7 @@ h1,h2,h3,h4,h5,h6 {
 	color: #009688;
 	margin: 10px;
 }
-@media screen and (max-width:770px){
+@media(min-width: 900px){
 	.footer-left,.footer-right{
 		flex-basis:100%;
 		font-size: 14px;
